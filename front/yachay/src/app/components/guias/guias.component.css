@@ -1,0 +1,88 @@
+/* ---------------------------- */
+
+.imagenGuia
+{    
+    height: 250px !important;
+    margin-left: 10px;
+}
+#Perfile{
+    width: 90%;
+    height: 100%;
+
+}
+#margen{
+  
+    background: white;
+    padding: 10px;
+    margin: 0px;
+    margin-top: 50px;
+
+    
+}
+/* button
+{
+    margin: 30px;
+} */
+#icon{
+  
+    width: 25px;
+    height: 26px;
+    
+}
+#icon1{
+    width: 22px;
+    height: 22px;
+    margin: 17px;
+}
+#a{
+    margin: 30px;
+}
+#b{
+    margin-left: 50%;
+    padding: 20px;
+}
+#textbox{
+    margin-left: 49px;
+}
+
+#x{
+    background: rgb(53, 53, 214)    ;
+}
+#mensaje{
+    width: 40px;
+    height: 40px;
+    margin-left: -5px;
+    margin-top: -20px;
+    margin-bottom: -20px; 
+    padding: 4px;
+}
+#x  a {
+    color:white
+}
+#vandera{
+    color: red;
+}
+#icon2{
+    width: 50px;
+    height: 50px; 
+    margin: 48px;
+    
+}
+#s{
+    margin-left: -40px;  
+}
+#banderita
+{
+width:45px;
+height: 50px;
+margin-top: -22.5%;  
+margin-left: 81.5%; 
+}
+#Buttom_name{
+   margin: 2%;
+   margin-top: -4%;
+   
+}
+  
+
+

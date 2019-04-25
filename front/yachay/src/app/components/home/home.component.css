@@ -1,0 +1,81 @@
+.seccion1{
+    position: relative;
+}
+
+#textoPrincipal {
+    position: absolute;
+    left: 0;
+    top: 30%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    table-layout: fixed;
+    z-index: 30;
+  }
+
+  .carousel img{
+    height: 500px;
+    width: 1500px;
+    opacity: 0.5;
+
+}
+
+#buscarDestino{
+    opacity: .7;
+    width: 40%;
+    position: absolute;
+    top: 50%;
+    border: 0ch;
+    z-index: 30;
+    color: white;
+    left: 30%;
+
+}
+
+::placeholder { 
+    color: white;
+    opacity: 1; 
+  }
+
+.divRolloArriba{
+    position: absolute;
+    left: 30%;
+    bottom:0;
+    width: 40%;
+    text-align: center;
+    font-size: 60px;
+    table-layout: fixed;
+    z-index: 30;
+    background-color: white
+}
+
+.divRolloAbajo{
+    position: relative;
+    left: 30%;
+    bottom:0;
+    width: 40%;
+    text-align: center;
+    font-size: 60px;
+    table-layout: fixed;
+    z-index: 30;
+    background-color: white
+}
+
+.iconoPais{
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    /* top: 10%; */
+    right: 10%;
+    z-index: 30;
+}
+
+.card-img:hover{
+    opacity: 0.5;
+}
+
+.card-img-top {
+    height: 258px;
+    width: 459px;
+}
+
